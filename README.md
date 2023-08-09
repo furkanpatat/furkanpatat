@@ -1,5 +1,5 @@
 ### Hi there 👋
-###    I am Furkan. I am a student of Computer Engineering.
+###    I am Furkan. I am a Computer Engineering Student.
 
 ###    - 🌱 I’m currently learning => Java , SQL.
 ###    - 📫 How to reach me: furkanpatat@hotmail.com
