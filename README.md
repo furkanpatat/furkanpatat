@@ -1,7 +1,7 @@
 ### Hi there 👋
 ###    I am Furkan. I am a Computer Engineering Student.
 
-###    - 🌱 I’m currently learning => Java , SQL.
+###    - 🌱 I’m currently working on => Java ,Python, SQL.
 ###    - 📫 How to reach me: furkanpatat@hotmail.com
 
 
